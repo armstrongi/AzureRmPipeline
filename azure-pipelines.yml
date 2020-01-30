@@ -8,5 +8,5 @@ steps:
     resourceGroupName: 'AzureRmPipeline-rg'
     location: 'Australia East'
     templateLocation: 'Linked artifact'
-    csmFile: 'CreateAzureStorage/azuredeploy.json'
+    csmFile: 'createazurestorage/azuredeploy.json'
     deploymentMode: 'Incremental'
